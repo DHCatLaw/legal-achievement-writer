@@ -37,24 +37,23 @@ control and frequently differ** (e.g., California has its own Rules of Professio
 - **《中华人民共和国律师法》(PRC Lawyers Law)** — establishes the lawyer's **duty of
   confidentiality** toward state secrets, commercial secrets, and client privacy.
   → *Mirrors the confidentiality gate above.*
-- **中华全国律师协会《律师执业行为规范》(2017 revision; 律发通〔2018〕58号; in force)** —
-  Chapter III, "Rules on Lawyer Business Promotion" (律师业务推广行为规范), requires promotion to
-  follow principles of good faith and fair competition (Art. 16) and bars unfair competition in
-  promotion (Art. 22). Advertising one's **past results (执业业绩)** is expressly permitted as
-  content — but it must be truthful and within these limits.
-- **Local bar-association rules (地方律协规定)** enumerate the specific prohibitions most
-  explicitly. For example, the **Zhejiang Lawyers Association rules (2020), Art. 26**, bar, in
-  business promotion: (1) false, misleading, or exaggerated promotion; (3) implying a special
-  relationship with judicial/administrative organs; (4) disparaging or comparative advertising
-  against other firms/lawyers; (5) **promising case outcomes (承诺办案结果)**; (6) touting win
-  rates / award amounts / matter values that create **unreasonable public expectations**.
-  → *These map directly to the no-guarantee, no-misleading, and no-disparagement checks.*
+- **All-China Lawyers Association — Rules on Lawyer Business Promotion**
+  (《中华全国律师协会律师业务推广行为规则（试行）》; 律发通〔2018〕5号; in force). **Art. 10** bars,
+  in business promotion: (1) false, misleading, or exaggerated promotion; (3) implying a special
+  relationship with judicial/administrative organs; (4) disparaging other firms/lawyers or
+  comparative advertising against them; (5) **promising case outcomes (承诺办案结果)**; (6) touting
+  win rates / award amounts / matter values that may create **unreasonable public expectations**;
+  (9) **publishing client information without the client's permission**. **Art. 8** — any honor
+  cited must state its grantor and date. **Arts. 6–7** — promotional material must display the
+  lawyer's name, bar license number, and firm name. **Art. 13** — these rules also apply when
+  promoting through third-party platforms or media.
+  → *Maps directly to the skill's no-guarantee, no-misleading, no-disparagement, fact-verification,
+  and client-consent checks.*
+- Advertising one's **past results (执业业绩)** is permitted content — but only if truthful and
+  within the limits above.
 
-> Citations verified against the current text via a primary-law source. **The national rule sets
-> the framework; the most explicit enumerations live in local (地方律协) rules, which vary by
-> province/city — confirm the rules of YOUR bar before publishing.** Note also that PRC rules
-> generally require an individual lawyer's promotional material to display the lawyer's name, bar
-> license number, and firm name, and that any honor/award cited state its grantor and date.
+> Citations verified against current primary-law text. **Your local bar association (地方律协) may
+> impose additional or stricter requirements — confirm them before publishing.**
 
 ---
 
