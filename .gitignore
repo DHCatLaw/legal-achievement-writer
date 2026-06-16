@@ -1,0 +1,6 @@
+# Each firm's real config may contain non-public info — never commit it.
+achievement.config.md
+
+# OS / editor noise
+.DS_Store
+*.swp
