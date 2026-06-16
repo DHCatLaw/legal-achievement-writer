@@ -100,7 +100,29 @@ you publish. See [ETHICS.md](ETHICS.md) and [LICENSE](LICENSE).
 
 ---
 
-<sub>作者 / Created by <b>邓宏昌 Hongchang (Richard) Deng</b> —— 美国加州律师（Bar No. 354529）·
-USPTO 商标律师 · 中国执业律师 · 中国专利代理师 / California Attorney · USPTO Trademark Attorney ·
-PRC Lawyer · PRC Patent Attorney. 作为开源工具分享给法律同行，欢迎 PR 贡献各法域规则补充。
-Shared as an open-source tool for the legal community; PRs with jurisdiction-specific notes welcome.</sub>
+## 关于作者 · About the author
+
+<table>
+<tr>
+<td valign="top">
+
+**邓宏昌 · Hongchang (Richard) Deng** —— 中美双重执业律师 / China &amp; U.S. lawyer
+
+- 美国加州律师（Bar No. 354529）· USPTO 商标律师 · 中国执业律师 · 中国专利代理师
+  <br/>California Attorney · USPTO Trademark Attorney · PRC Lawyer · PRC Patent Attorney
+- **LawMay P.C.（路迈律师事务所）** 合伙人 · 深圳 · 加州 / Partner, Shenzhen &amp; California
+- 专注中美跨境知识产权诉讼与合规 / Cross-border IP litigation &amp; compliance
+- 🔗 [www.lawmayus.com](https://www.lawmayus.com) ｜ GitHub [@DHCatLaw](https://github.com/DHCatLaw)
+
+本工具作为开源项目分享给法律同行，欢迎通过 PR 贡献各法域的规则补充与改进。
+Shared as open source for the legal community — PRs with jurisdiction-specific notes welcome.
+
+欢迎交流（中文）· Feel free to connect →
+
+</td>
+<td valign="top" width="220">
+<img src="assets/wechat-qr.png" width="190" alt="WeChat — 邓宏昌 中国及美国律师"/>
+<br/><sub align="center">微信 · WeChat</sub>
+</td>
+</tr>
+</table>
